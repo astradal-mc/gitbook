@@ -10,16 +10,31 @@ This mod is highly recommended for this server, so that you can role play in an 
 
 {% embed url="https://modrinth.com/plugin/simple-voice-chat" %}
 
-Please use the link above to download simple voice chat for your mod loader of choice.\
+Please use the link above to download simple voice chat for your mod loader of choice.
+
 
 
 ## Usage
+
+### Icons
+
+| Icon                                 | Description                                                 |
+| ------------------------------------ | ----------------------------------------------------------- |
+| ![](https://i.imgur.com/FZD3ohs.png) | You are talking                                             |
+| ![](https://i.imgur.com/BJt2YAL.png) | You are whispering                                          |
+| ![](https://i.imgur.com/lmN6ydy.png) | Player is talking                                           |
+| ![](https://i.imgur.com/Felj73b.png) | Player is whispering                                        |
+| ![](https://i.imgur.com/dI3pfmA.png) | Microphone muted                                            |
+| ![](https://i.imgur.com/MZRBqra.png) | Voice chat disabled                                         |
+| ![](https://i.imgur.com/Lv3K6tC.png) | <p>Voice chat not connected<br>Voice chat not installed</p> |
+
+
 
 ### GUI
 
 You can open the voice chat GUI by pressing the `V` key. This allows you to open the settings, group chats, mute yourself, disable the voice chat, start/stop a recording and hide all icons.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Group Chats
 
@@ -27,7 +42,7 @@ Group chats allow you to talk to players that are not in your vicinity. To open 
 
 To create a new group, just type a name in the text field and press the button next to it.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Creating or joining a group will bring you into the group chat interface. You will also see the heads of the group members in the top left corner of your screen. Talking players will be outlined. You can disable these icons by pressing the third button from the left.
 

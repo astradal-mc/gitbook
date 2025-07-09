@@ -13,11 +13,6 @@
 * [Resources](towny/resources.md)
 * [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
-## 🎮 Supported Mods
-
-* [Simple Voice Chat](supported-mods/simple-voice-chat.md)
-* [Distant Horizons](supported-mods/distant-horizons.md)
-
 ## 📑 Server Features
 
 * [Overview](server-features/overview.md)
@@ -37,3 +32,8 @@
 ## 🍻 Brewery
 
 * [Brewery](brewery/brewery.md)
+
+## 🎮 Supported Mods
+
+* [Simple Voice Chat](supported-mods/simple-voice-chat.md)
+* [Distant Horizons](supported-mods/distant-horizons.md)

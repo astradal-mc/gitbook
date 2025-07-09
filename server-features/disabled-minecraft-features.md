@@ -10,4 +10,5 @@ icon: lock
 * Totem Drops
 * Villager Trading
 * Shulker Duplication
+* Natural Iron Golem spawning
 

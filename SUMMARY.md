@@ -7,6 +7,7 @@
 
 * [Overview](towny/overview.md)
 * [Commands](towny/commands.md)
+* [Menu](towny/menu.md)
 * [Wars](towny/wars.md)
 * [Cultures](towny/cultures.md)
 * [Resources](towny/resources.md)
@@ -19,16 +20,15 @@
 
 ## 📑 Server Features
 
+* [Overview](server-features/overview.md)
+* [General Commands](server-features/general-commands.md)
 * [Disabled Minecraft Features](server-features/disabled-minecraft-features.md)
+* [Webmap](server-features/webmap.md)
+* [Graves](server-features/graves.md)
 * [Marriage](server-features/marriage.md)
 * [Log Inspection](server-features/log-inspection.md)
-* [Webmap](server-features/webmap.md)
 * [Chestshop](server-features/chestshop.md)
 * [Anti-Combat-Log](server-features/anti-combat-log.md)
-* [RTP](server-features/rtp.md)
-* [Untitled](server-features/untitled.md)
-* [Overview](server-features/overview.md)
-* [Graves](server-features/graves.md)
 * [Imageframe](server-features/imageframe.md)
 * [ForgetfulVaults](server-features/forgetfulvaults.md)
 * [Head Database](server-features/head-database.md)

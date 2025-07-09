@@ -10,10 +10,10 @@
 * [Event Wars](towny/event-wars.md)
 * [Official Towny Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
-## 🎮 Optional Mods
+## 🎮 Supported Mods
 
-* [Simple Voice Chat](optional-mods/simple-voice-chat.md)
-* [Distant Horizons](optional-mods/distant-horizons.md)
+* [Simple Voice Chat](supported-mods/simple-voice-chat.md)
+* [Distant Horizons](supported-mods/distant-horizons.md)
 
 ## 📑 Server Features
 
@@ -24,7 +24,7 @@
 * [Chestshop](server-features/chestshop.md)
 * [Anti-Combat-Log](server-features/anti-combat-log.md)
 * [RTP](server-features/rtp.md)
-* [CMI](server-features/cmi.md)
+* [Untitled](server-features/untitled.md)
 * [Overview](server-features/overview.md)
 * [Graves](server-features/graves.md)
 * [Imageframe](server-features/imageframe.md)

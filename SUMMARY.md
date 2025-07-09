@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Homepage](README.md)
+* [Home](README.md)
 * [Astradal Rules](https://www.astradal.net/rules)
 
 ## 🏡 Towny
@@ -28,6 +28,7 @@
 * [ForgetfulVaults](server-features/forgetfulvaults.md)
 * [Head Database](server-features/head-database.md)
 * [FlagsH](server-features/flagsh.md)
+* [Armorstands](server-features/armorstands.md)
 
 ## 🍻 Brewery
 
@@ -37,3 +38,10 @@
 
 * [Simple Voice Chat](supported-mods/simple-voice-chat.md)
 * [Distant Horizons](supported-mods/distant-horizons.md)
+
+## ⛏️ Custom Items
+
+* [Amethyst Armor](custom-items/amethyst-armor.md)
+* [Obsidian Armor](custom-items/obsidian-armor.md)
+* [Ice Armor](custom-items/ice-armor.md)
+* [Copper Armor](custom-items/copper-armor.md)

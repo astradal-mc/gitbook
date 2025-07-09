@@ -1,3 +1,7 @@
+---
+icon: tombstone-blank
+---
+
 # Graves
 
 /graves - Player graves\

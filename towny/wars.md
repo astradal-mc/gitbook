@@ -4,13 +4,13 @@ icon: sword
 
 # Wars
 
-Wars are begun by an admin using `/ta war {wartype} ...` or via town-purchased Declaration of War books.\
-\
-Declarations of War are purchased via Tokens using `/town redeem {wartype}`.\
-\
-Tokens are earned by every non-neutral town each Towny newday. If a town is part of a nation that nation must not be neutral either. Towns with an active war will also not receive war tokens.
+## Official Documentation
 
-## War types
+{% embed url="https://townyadvanced.github.io/eventwar.html" %}
+
+
+
+## **Introduction/Game-play:**
 
 * **Riot** - One town fighting amongst itself. Players side with the city or the rioters via team selection.
 * **Town vs Town** - Two towns fight against each other.
@@ -20,4 +20,12 @@ Tokens are earned by every non-neutral town each Towny newday. If a town is part
 * **Nation vs Nation** - Two nations fight against each other.
 * **Alliance vs Alliance** - Two nations fight against each other, with both nations' allies able to join the fight.
 * **World War** - All nations with enemies will be thrown into war. Similar to the old EventWar.
+
+
+
+Wars are begun by an admin using `/ta war {wartype} ...` or via town-purchased Declaration of War books.\
+\
+Declarations of War are purchased via Tokens using `/town redeem {wartype}`.\
+\
+Tokens are earned by every non-neutral town each Towny newday. If a town is part of a nation that nation must not be neutral either. Towns with an active war will also not receive war tokens.
 

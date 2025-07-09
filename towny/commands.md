@@ -127,7 +127,7 @@ icon: terminal
 
 
 
-### /resident
+## /resident
 
 * Shows a player their resident screen.
 * ? - Shows /res commands available.
@@ -321,99 +321,97 @@ icon: terminal
 
 ## /nation
 
-* /nation
-  *
-    * Shows a player their nation's nation screen.
-  * ? - Shows /nation commands.
-  * list
-    * by name {page #} - order alpabetically.
-    * by resident {page #} - order by nation with most residents across all towns.
-    * by balance {page #} - order by nation with the highest nation bank balance.
-    * by towns {page #} - order by nation with the most towns.
-    * by townblocks {page #} - order nations by how many townblocks their towns have collectively claimed.
-    * by online {page #} - order by how many players are online at that moment.
-    * by open {page #} - ordered by open first, number of residents second.
-    * by public {page #} - order by public first, number of residents second.
-    * by founded {page #} - order by founded date, oldest first.
-  * online - Shows players in your nation which are online.
-  * {nation} - Shows a player the /nation screen of another nation.
-  * leave - Mayor command to leave the nation they are a part of.
-  * withdraw
-    * {$} - King command to remove money from the nation bank.
-    * all - Withdraws all of the money from the nation bank.
-  * deposit
-    * {$} - Command to add money to the nation bank.
-    * all - Deposits all of your money into the nation bank.
-  * baltop {nationname} - Opens a book displaying the richest players in a nation.
-  * bankhistory {#} - Opens a book GUI with # number of transactions listed, showing the nation bank history.
-  * deposit {$} {townname} - King command to add money to the bank of a town who is in the nation.
-  * new
-    * {nationname} - Mayor command to create a nation.
-  * rank - Command to set assistant/custom ranks in the nation.
-  * add {town} .. {town} - Invites/Adds a town to your nation.
-  * kick {town} .. {town} - Removes a town from your nation.
-  * delete {nation} - Deletes your nation.
-  * invite - Show a list of invites sent.
-    * help - Show a list of invites sent.
-    * sent - Show a list of invites sent.
-    * {town} - Invites a town to a nation.
-  * ally - Show a list of nation alliance invites sent.
-    * add {nation} .. {nation} - Add a nation to your nation's ally list.
-    * remove {nation} .. {nation} - Removes a nation from your nation's ally list.
-    * accept {nationname} - Accepts an invitation to ally from another nation.
-    * deny {nationname} - Denies an invitation to ally from another nation.
-    * sent - Show a list of nation alliance invites sent.
-    * received - Show a list of nation alliance invites received.
-  * enemy
-    * add {nation} .. {nation} - Add a nation to your nation's enemy list.
-    * remove {nation} .. {nation} - Removes a nation from your nation's enemy list.
-  * rank {add|remove} {playername} {rankname} - Grants or removes a rank to a resident of the nation.
-  * sanctiontown
-    * add \[townname] - Adds a town to the sanctioned town list.
-    * remove \[townname] - Removes a town from the sanctioned town list.
-    * list - Lists your nation's sanctioned towns.
-    * list \[nationname] - Lists the sanctioned towns of other nations.
-  * say {msg} - Broadcast a message to online nation members.
-  * set
-    * king {resident} - King command to change the king of the nation.
-    * capital {town} - Sets the capitol and king of the nation.
-    * board
-      * {message} - Sets message seen by residents upon logging in.
-      * none - Sets an empty board which will not be seen on login or in the /nation status screen.
-    * taxes {$} - Sets nationtax applied to the towns within the nation.
-    * conqueredtax {$} - Sets a nation's conquered tax, which is paid by the conquered towns.
-    * taxpercentcap - Sets the maximum amount that a town will pay in nationtax, when the nation has percent-based taxation.
-    * name {name} - Sets the nation's name.
-    * spawn - Sets the nation spawn point.
-    * spawncost - Sets the cost of public spawns to that nation's spawn point. No effect on members of the nation or nation-allies
-    * title {name} {titlegoeshere} - King command to add a Title to a member of the nation.
-    * title {name} - King command to clear a Title from a member of the nation.
-    * surname {name} {surnamegoeshere} - King command to add a Suffix to a member of the nation.
-    * surname {name} - King command to clear a Suffix from a member of the nation.
-    * tag {upto4character} - Sets the nation's tag, which is sometimes used on that chat line.
-      * clear - Clears the tag set for the nation.
-    * mapcolor {color} - Sets the colour seen on the dynmap-towny webpage.
-  * toggle
-    * neutral - Sets whether your nation will pay daily to be neutral during towny war.
-    * open - Sets the nation to be open, so that any town can join without an invite.
-    * taxpercent - Turns on and off the percentage-based taxation of towns in the nation.
-  * join {nation}
-    * Used by a town mayor to join an open nation.
-  * merge {nationname}
-    * Requests the given nation to merge into your nation.
-    * Can only be used by the nation king, and requires the king of the other nation to be online to accept the merger.
-    * The soon-to-be-ex-king will receive a confirmation message asking if they will accept the dissolution of their nation.
-    * If accepted the towns of the nation transfer to the remaining nation. The nation's bank money is also transferred.
-  * ranklist {nationname} - Displays residents and their ranks, optional nationname to view another nation's rank list.
-  * townlist (nation)
-    * (nation) is optional, to show townlist of a nation you aren't a part of.
-    * lists all towns in a nation.
-  * allylist (nation)
-    * (nation) is optional, to show allylist of a nation you aren't a part of.
-    * lists all allies of a nation.
-  * enemylist (nation)
-    * (nation) is optional, to show enemylist of a nation you aren't a part of.
-    * lists all enemies of a nation.
+* Shows a player their nation's nation screen.
+* ? - Shows /nation commands.
+* list
+  * by name {page #} - order alpabetically.
+  * by resident {page #} - order by nation with most residents across all towns.
+  * by balance {page #} - order by nation with the highest nation bank balance.
+  * by towns {page #} - order by nation with the most towns.
+  * by townblocks {page #} - order nations by how many townblocks their towns have collectively claimed.
+  * by online {page #} - order by how many players are online at that moment.
+  * by open {page #} - ordered by open first, number of residents second.
+  * by public {page #} - order by public first, number of residents second.
+  * by founded {page #} - order by founded date, oldest first.
+* online - Shows players in your nation which are online.
+* {nation} - Shows a player the /nation screen of another nation.
+* leave - Mayor command to leave the nation they are a part of.
+* withdraw
+  * {$} - King command to remove money from the nation bank.
+  * all - Withdraws all of the money from the nation bank.
+* deposit
+  * {$} - Command to add money to the nation bank.
+  * all - Deposits all of your money into the nation bank.
+* baltop {nationname} - Opens a book displaying the richest players in a nation.
+* bankhistory {#} - Opens a book GUI with # number of transactions listed, showing the nation bank history.
+* deposit {$} {townname} - King command to add money to the bank of a town who is in the nation.
+* new
+  * {nationname} - Mayor command to create a nation.
+* rank - Command to set assistant/custom ranks in the nation.
+* add {town} .. {town} - Invites/Adds a town to your nation.
+* kick {town} .. {town} - Removes a town from your nation.
+* delete {nation} - Deletes your nation.
+* invite - Show a list of invites sent.
+  * help - Show a list of invites sent.
+  * sent - Show a list of invites sent.
+  * {town} - Invites a town to a nation.
+* ally - Show a list of nation alliance invites sent.
+  * add {nation} .. {nation} - Add a nation to your nation's ally list.
+  * remove {nation} .. {nation} - Removes a nation from your nation's ally list.
+  * accept {nationname} - Accepts an invitation to ally from another nation.
+  * deny {nationname} - Denies an invitation to ally from another nation.
+  * sent - Show a list of nation alliance invites sent.
+  * received - Show a list of nation alliance invites received.
+* enemy
+  * add {nation} .. {nation} - Add a nation to your nation's enemy list.
+  * remove {nation} .. {nation} - Removes a nation from your nation's enemy list.
+* rank {add|remove} {playername} {rankname} - Grants or removes a rank to a resident of the nation.
+* sanctiontown
+  * add \[townname] - Adds a town to the sanctioned town list.
+  * remove \[townname] - Removes a town from the sanctioned town list.
+  * list - Lists your nation's sanctioned towns.
+  * list \[nationname] - Lists the sanctioned towns of other nations.
+* say {msg} - Broadcast a message to online nation members.
+* set
+  * king {resident} - King command to change the king of the nation.
+  * capital {town} - Sets the capitol and king of the nation.
+  * board
+    * {message} - Sets message seen by residents upon logging in.
+    * none - Sets an empty board which will not be seen on login or in the /nation status screen.
+  * taxes {$} - Sets nationtax applied to the towns within the nation.
+  * conqueredtax {$} - Sets a nation's conquered tax, which is paid by the conquered towns.
+  * taxpercentcap - Sets the maximum amount that a town will pay in nationtax, when the nation has percent-based taxation.
+  * name {name} - Sets the nation's name.
+  * spawn - Sets the nation spawn point.
+  * spawncost - Sets the cost of public spawns to that nation's spawn point. No effect on members of the nation or nation-allies
+  * title {name} {titlegoeshere} - King command to add a Title to a member of the nation.
+  * title {name} - King command to clear a Title from a member of the nation.
+  * surname {name} {surnamegoeshere} - King command to add a Suffix to a member of the nation.
+  * surname {name} - King command to clear a Suffix from a member of the nation.
+  * tag {upto4character} - Sets the nation's tag, which is sometimes used on that chat line.
+    * clear - Clears the tag set for the nation.
+  * mapcolor {color} - Sets the colour seen on the dynmap-towny webpage.
+* toggle
+  * neutral - Sets whether your nation will pay daily to be neutral during towny war.
+  * open - Sets the nation to be open, so that any town can join without an invite.
+  * taxpercent - Turns on and off the percentage-based taxation of towns in the nation.
+* join {nation}
+  * Used by a town mayor to join an open nation.
+* merge {nationname}
+  * Requests the given nation to merge into your nation.
+  * Can only be used by the nation king, and requires the king of the other nation to be online to accept the merger.
+  * The soon-to-be-ex-king will receive a confirmation message asking if they will accept the dissolution of their nation.
+  * If accepted the towns of the nation transfer to the remaining nation. The nation's bank money is also transferred.
+* ranklist {nationname} - Displays residents and their ranks, optional nationname to view another nation's rank list.
+* townlist (nation)
+  * (nation) is optional, to show townlist of a nation you aren't a part of.
+  * lists all towns in a nation.
+* allylist (nation)
+  * (nation) is optional, to show allylist of a nation you aren't a part of.
+  * lists all allies of a nation.
+* enemylist (nation)
+  * (nation) is optional, to show enemylist of a nation you aren't a part of.
+  * lists all enemies of a nation.
 
 ## /invite
 

@@ -1,5 +1,6 @@
 ---
 description: See farther without turning your game into a slide show.
+icon: earth-americas
 ---
 
 # Distant Horizons

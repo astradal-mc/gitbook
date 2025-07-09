@@ -6,9 +6,11 @@
 ## 🏡 Towny
 
 * [Overview](towny/overview.md)
-* [Player Commands](towny/player-commands.md)
-* [Event Wars](towny/event-wars.md)
-* [Official Towny Wiki](https://github.com/TownyAdvanced/Towny/wiki)
+* [Commands](towny/commands.md)
+* [Wars](towny/wars.md)
+* [Cultures](towny/cultures.md)
+* [Resources](towny/resources.md)
+* [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
 ## 🎮 Supported Mods
 

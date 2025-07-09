@@ -1,5 +1,6 @@
 ---
 description: A working voice chat in game!
+icon: volume-high
 ---
 
 # Simple Voice Chat
@@ -11,8 +12,6 @@ This mod is highly recommended for this server, so that you can role play in an 
 {% embed url="https://modrinth.com/plugin/simple-voice-chat" %}
 
 Please use the link above to download simple voice chat for your mod loader of choice.
-
-
 
 ## Usage
 
@@ -27,8 +26,6 @@ Please use the link above to download simple voice chat for your mod loader of c
 | ![](https://i.imgur.com/dI3pfmA.png) | Microphone muted                                            |
 | ![](https://i.imgur.com/MZRBqra.png) | Voice chat disabled                                         |
 | ![](https://i.imgur.com/Lv3K6tC.png) | <p>Voice chat not connected<br>Voice chat not installed</p> |
-
-
 
 ### GUI
 

@@ -1,2 +1,6 @@
+---
+icon: rings-wedding
+---
+
 # Marriage
 

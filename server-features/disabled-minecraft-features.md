@@ -1,3 +1,7 @@
+---
+icon: lock
+---
+
 # Disabled Minecraft Features
 
 * The End dimension

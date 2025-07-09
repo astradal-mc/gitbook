@@ -1,5 +1,5 @@
 ---
-description: The landing page for the Astradal Wiki
+description: A description of Astradal
 icon: moon-stars
 ---
 

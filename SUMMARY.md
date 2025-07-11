@@ -15,6 +15,7 @@
 
 ## 📑 Server Features
 
+* [Bedrock Guide](server-features/bedrock-guide.md)
 * [Overview](server-features/overview.md)
 * [General Commands](server-features/general-commands.md)
 * [Disabled Minecraft Features](server-features/disabled-minecraft-features.md)

@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Astradal Rules](https://www.astradal.net/rules)
+* [Bedrock Guide](bedrock-guide.md)
 
 ## 🏡 Towny
 
@@ -13,36 +14,41 @@
 * [Resources](towny/resources.md)
 * [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
-## 📑 Server Features
+## 📑 Player Features
 
-* [Bedrock Guide](server-features/bedrock-guide.md)
-* [Overview](server-features/overview.md)
-* [General Commands](server-features/general-commands.md)
-* [Disabled Minecraft Features](server-features/disabled-minecraft-features.md)
-* [Webmap](server-features/webmap.md)
-* [Graves](server-features/graves.md)
-* [Marriage](server-features/marriage.md)
-* [Log Inspection](server-features/log-inspection.md)
-* [Chestshop](server-features/chestshop.md)
-* [Anti-Combat-Log](server-features/anti-combat-log.md)
-* [Imageframe](server-features/imageframe.md)
-* [ForgetfulVaults](server-features/forgetfulvaults.md)
-* [Head Database](server-features/head-database.md)
-* [FlagsH](server-features/flagsh.md)
-* [Armorstands](server-features/armorstands.md)
+* [General Commands](player-features/general-commands.md)
+* [Disabled Minecraft Features](player-features/disabled-minecraft-features.md)
+* [Webmap](player-features/webmap.md)
+* [Graves](player-features/graves.md)
+* [Log Inspection](player-features/log-inspection.md)
+* [Chestshop](player-features/chestshop.md)
+* [Anti-Combat-Log](player-features/anti-combat-log.md)
+* [ForgetfulVaults](player-features/forgetfulvaults.md)
+
+## 🎭 Roleplay Features
+
+* [Marriage](roleplay-features/marriage.md)
+* [Head Database](roleplay-features/head-database.md)
+* [Armorstands](roleplay-features/armorstands.md)
+* [FlagsH](roleplay-features/flagsh.md)
+* [Imageframe](roleplay-features/imageframe.md)
 
 ## 🍻 Brewery
 
 * [Brewery](brewery/brewery.md)
+
+***
+
+* [Public Recipes](public-recipes.md)
 
 ## 🎮 Supported Mods
 
 * [Simple Voice Chat](supported-mods/simple-voice-chat.md)
 * [Distant Horizons](supported-mods/distant-horizons.md)
 
-## ⛏️ Custom Items
+## ⛏️ Custom Armors
 
-* [Amethyst Armor](custom-items/amethyst-armor.md)
-* [Obsidian Armor](custom-items/obsidian-armor.md)
-* [Ice Armor](custom-items/ice-armor.md)
-* [Copper Armor](custom-items/copper-armor.md)
+* [Amethyst Armor](custom-armors/amethyst-armor.md)
+* [Obsidian Armor](custom-armors/obsidian-armor.md)
+* [Ice Armor](custom-armors/ice-armor.md)
+* [Copper Armor](custom-armors/copper-armor.md)

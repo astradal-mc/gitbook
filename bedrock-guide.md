@@ -1,5 +1,6 @@
 ---
 description: How to play on Astradal from any device that runs Minecraft Bedrock Edition.
+icon: block
 ---
 
 # Bedrock Guide
@@ -15,3 +16,5 @@ description: How to play on Astradal from any device that runs Minecraft Bedrock
 6. Enter the server’s port, if required. The default port for Minecraft: Bedrock Edition is 19132.\
    `Port:` **19132**
 7. Select **Add and play** if you’d like to play immediately or **Add server** if you want to play later.&#x20;
+
+\

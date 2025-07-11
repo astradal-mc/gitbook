@@ -1,5 +1,6 @@
 ---
 description: A way to see everything on the server
+icon: map
 ---
 
 # Webmap

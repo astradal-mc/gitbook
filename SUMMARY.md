@@ -14,16 +14,17 @@
 * [Resources](towny/resources.md)
 * [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
-## 📑 Player Features
+## 📑 General Features
 
-* [General Commands](player-features/general-commands.md)
-* [Disabled Minecraft Features](player-features/disabled-minecraft-features.md)
-* [Webmap](player-features/webmap.md)
-* [Graves](player-features/graves.md)
-* [Log Inspection](player-features/log-inspection.md)
-* [Chestshop](player-features/chestshop.md)
-* [Anti-Combat-Log](player-features/anti-combat-log.md)
-* [ForgetfulVaults](player-features/forgetfulvaults.md)
+* [General Commands](general-features/general-commands.md)
+* [Disabled Minecraft Features](general-features/disabled-minecraft-features.md)
+* [Loot-chest regeneration](general-features/loot-chest-regeneration.md)
+* [Webmap](general-features/webmap.md)
+* [Graves](general-features/graves.md)
+* [Log Inspection](general-features/log-inspection.md)
+* [Chestshop](general-features/chestshop.md)
+* [Anti-Combat-Log](general-features/anti-combat-log.md)
+* [ForgetfulVaults](general-features/forgetfulvaults.md)
 
 ## 🎭 Roleplay Features
 

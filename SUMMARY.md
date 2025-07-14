@@ -19,10 +19,10 @@
 * [Essential commands](general-features/essential-commands.md)
 * [Disabled Minecraft Features](general-features/disabled-minecraft-features.md)
 * [Loot-chest regeneration](general-features/loot-chest-regeneration.md)
-* [Webmap](general-features/webmap.md)
 * [Graves](general-features/graves.md)
+* [Chestshops](general-features/chestshops.md)
 * [Log Inspection](general-features/log-inspection.md)
-* [Chestshop](general-features/chestshop.md)
+* [Webmap](general-features/webmap.md)
 * [Anti-Combat-Log](general-features/anti-combat-log.md)
 * [ForgetfulVaults](general-features/forgetfulvaults.md)
 

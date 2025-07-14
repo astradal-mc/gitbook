@@ -1,6 +1,0 @@
----
-icon: shop
----
-
-# Chestshop
-

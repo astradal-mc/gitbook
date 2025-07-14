@@ -16,7 +16,7 @@
 
 ## 📑 General Features
 
-* [General Commands](general-features/general-commands.md)
+* [Essential commands](general-features/essential-commands.md)
 * [Disabled Minecraft Features](general-features/disabled-minecraft-features.md)
 * [Loot-chest regeneration](general-features/loot-chest-regeneration.md)
 * [Webmap](general-features/webmap.md)

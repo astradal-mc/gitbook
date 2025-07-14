@@ -14,22 +14,9 @@ Use `/cmi help` to get a list of all available commands in game.
 
 ### Economy
 
-| Command             | Description                    |
-| ------------------- | ------------------------------ |
-| `/bal`              | Check your balance             |
-| `/bal [playerName]` | Check another player's balance |
-| `/pay [playerName]` | Send money to another player   |
+<table><thead><tr><th width="282">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/bal</code></td><td>Check your balance</td></tr><tr><td><code>/bal [playerName]</code></td><td>Check another player's balance</td></tr><tr><td><code>/pay [playerName]</code></td><td>Send money to another player</td></tr><tr><td><code>/baltop #</code></td><td>See the richest players, optional page number</td></tr></tbody></table>
 
 ### Stats & Info
 
-| Command                  | Description                                                                       |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| `/info`                  | See information about yourself, such as position, gamemode, and respawn point     |
-| `/stats`                 | See statistics about yourself, such as mobs killed, items used, and blocks broken |
-| `/playtime`              | See your playtime on the server, and when you first joined                        |
-| `/playtime [playerName]` | See another player's playtime and join date                                       |
-| `/playtimetop`           | See the top list of playtime                                                      |
-| `/pos`                   | See your position                                                                 |
-| `/seen [playerName]`     | See how long a player has been offline or online                                  |
-| `/ping`                  | Get your ping to the server                                                       |
+<table><thead><tr><th width="285.2000732421875">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/info</code></td><td>See information about yourself, such as position, gamemode, and respawn point</td></tr><tr><td><code>/stats</code></td><td>See statistics about yourself, such as mobs killed, items used, and blocks broken</td></tr><tr><td><code>/playtime</code></td><td>See your playtime on the server, and when you first joined</td></tr><tr><td><code>/playtime [playerName]</code></td><td>See another player's playtime and join date</td></tr><tr><td><code>/playtimetop</code></td><td>See the top list of playtime </td></tr><tr><td><code>/pos</code></td><td>See your position</td></tr><tr><td><code>/seen [playerName]</code></td><td>See how long a player has been offline or online</td></tr><tr><td><code>/ping</code></td><td>Get your ping to the server</td></tr></tbody></table>
 

@@ -5,8 +5,6 @@ icon: head-side
 
 # Head Database
 
-##
-
 ## Commands
 
 | Commands                                  | Description                               |

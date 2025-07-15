@@ -19,20 +19,29 @@
 * [Essential commands](general-features/essential-commands.md)
 * [Disabled Minecraft Features](general-features/disabled-minecraft-features.md)
 * [Loot-chest regeneration](general-features/loot-chest-regeneration.md)
+* [Animated Architecture](general-features/animated-architecture.md)
 * [Graves](general-features/graves.md)
 * [Chestshops](general-features/chestshops.md)
 * [Log Inspection](general-features/log-inspection.md)
-* [Webmap](general-features/webmap.md)
 * [Anti-Combat-Log](general-features/anti-combat-log.md)
 * [ForgetfulVaults](general-features/forgetfulvaults.md)
 
+***
+
+* [Vertical Slabs](vertical-slabs.md)
+* [Bottled EXP](bottled-exp.md)
+* [Sorting](sorting.md)
+* [Voting](voting.md)
+
 ## 🎭 Roleplay Features
 
+* [Webmap](roleplay-features/webmap.md)
 * [Marriage](roleplay-features/marriage.md)
 * [Head Database](roleplay-features/head-database.md)
 * [Armorstands](roleplay-features/armorstands.md)
 * [FlagsH](roleplay-features/flagsh.md)
 * [Imageframe](roleplay-features/imageframe.md)
+* [Roads](roleplay-features/roads.md)
 
 ## 🍻 Brewery
 

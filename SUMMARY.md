@@ -19,7 +19,7 @@
 * [Essential commands](general-features/essential-commands.md)
 * [Disabled Minecraft Features](general-features/disabled-minecraft-features.md)
 * [Loot-chest regeneration](general-features/loot-chest-regeneration.md)
-* [Animated Architecture](general-features/animated-architecture.md)
+* [AnimatedArchitecture](general-features/animatedarchitecture.md)
 * [Graves](general-features/graves.md)
 * [Chestshops](general-features/chestshops.md)
 * [Log Inspection](general-features/log-inspection.md)

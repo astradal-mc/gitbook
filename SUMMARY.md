@@ -6,13 +6,13 @@
 
 ## 🏡 Towny
 
-* [Overview](towny/overview.md)
+* [Overview](towny/overview/README.md)
+  * [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 * [Commands](towny/commands.md)
 * [Menu](towny/menu.md)
 * [Wars](towny/wars.md)
 * [Cultures](towny/cultures.md)
 * [Resources](towny/resources.md)
-* [Official Wiki](https://github.com/TownyAdvanced/Towny/wiki)
 
 ## 📑 General Features
 
@@ -35,7 +35,8 @@
 
 ## 🎭 Roleplay Features
 
-* [Webmap](roleplay-features/webmap.md)
+* [Webmap](roleplay-features/webmap/README.md)
+  * [https://map.astradal.net/](https://map.astradal.net/)
 * [Marriage](roleplay-features/marriage.md)
 * [Head Database](roleplay-features/head-database.md)
 * [Armorstands](roleplay-features/armorstands.md)
@@ -45,7 +46,8 @@
 
 ## 🍻 Brewery
 
-* [Brewery](brewery/brewery.md)
+* [Brewery](brewery/brewery/README.md)
+  * [Official Brewing Guide](https://breweryx.breweryteam.dev/docs/gameplay/brewing)
 
 ***
 

@@ -55,8 +55,10 @@
 
 ## 🎮 Supported Mods
 
-* [Simple Voice Chat](supported-mods/simple-voice-chat.md)
-* [Distant Horizons](supported-mods/distant-horizons.md)
+* [Simple Voice Chat](supported-mods/simple-voice-chat/README.md)
+  * [Official Download Link](https://modrinth.com/plugin/simple-voice-chat)
+* [Distant Horizons](supported-mods/distant-horizons/README.md)
+  * [Official Download Link](https://modrinth.com/mod/distanthorizons)
 
 ## ⛏️ Custom Armors
 

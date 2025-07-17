@@ -1,3 +1,7 @@
+---
+icon: circle-exclamation
+---
+
 # Essential commands
 
 ## Commands

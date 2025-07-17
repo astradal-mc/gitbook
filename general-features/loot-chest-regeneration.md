@@ -1,3 +1,7 @@
+---
+icon: treasure-chest
+---
+
 # Loot-chest regeneration
 
 ```yaml

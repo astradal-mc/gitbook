@@ -31,7 +31,7 @@
 * [Vertical Slabs](vertical-slabs.md)
 * [Bottled EXP](bottled-exp.md)
 * [Sorting](sorting.md)
-* [Voting](voting.md)
+* [Points](points.md)
 
 ## 🎭 Roleplay Features
 

@@ -13,6 +13,7 @@
 * [Wars](towny/wars.md)
 * [Cultures](towny/cultures.md)
 * [Resources](towny/resources.md)
+* [Portstones](towny/portstones.md)
 
 ## 📑 General Features
 

@@ -11,4 +11,5 @@ icon: lock
 * Villager Trading
 * Shulker Duplication
 * Natural Iron Golem spawning
-
+* End Crystal player damage
+* Respawn Anchor player damage
